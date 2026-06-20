@@ -4,7 +4,7 @@ CodeBounty is a competitive coding platform that distinguishes itself from exist
 
 This combination of competitive coding with Web3 technology not only incentivizes participation but also educates and immerses developers in the blockchain ecosystem, creating a unique and forward-thinking environment for learning and innovation.
 
-For more details- https://bit.ly/CodeBountyDocumentation
+For more details- (https://siddhanta-ray.notion.site/CodeBounty-08dd7b2d8a2e4a12a5a4873edbb71ca4)
 
 ## TokenCreate
 
